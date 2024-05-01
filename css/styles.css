@@ -97,6 +97,12 @@ h3 {
   margin:20px;
 }
 
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin:20px;
+}
+
 #press{
   background-color: #ef8172;
   text-align: center;
